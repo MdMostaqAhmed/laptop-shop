@@ -1,0 +1,15 @@
+.home-body {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.best-choice {
+  color: blue;
+}
+h1 {
+  font-size: 50px;
+  font-weight: 800;
+  margin: 0;
+  padding: 0;
+}
