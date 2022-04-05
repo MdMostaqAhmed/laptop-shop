@@ -1,6 +1,7 @@
 import React from "react";
 import "./Home.css";
 import laptop from "../../Images/Laptop.png";
+import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
@@ -20,6 +21,9 @@ const Home = () => {
         <img src={laptop} alt="" />
       </div>
       <h2>Customer Reviews(3)</h2>
+      <Link to="/reviews">
+        <button className="btn btn-primary my-5">See All Reviews</button>
+      </Link>
     </div>
   );
 };

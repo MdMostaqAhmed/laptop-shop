@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Alex Herison",
+    "comment": "As per the subject - your customer service is awesome , your website is awesome as are you prices - sold - you have a new customer! THANKS",
+    "id": 1,
+    "rating": 4
+  },
+  {
+    "name": "Linda Clech",
+    "comment": "Got it. Excellent job of packing! Everything works perfectly! Thanks!",
+    "id": 2,
+    "rating": 5
+  },
+  {
+    "name": "Jim Victor",
+    "comment": "Got it. Excellent job of packing! Everything works perfectly! Thanks!",
+    "id": 3,
+    "rating": 4
+  },
+  {
+    "name": "Jon Hardson",
+    "comment": "I wanted to let you know that I am quite pleased with you fast delivery & your product , which works well. As advertised",
+    "id": 4,
+    "rating": 4
+  },
+  {
+    "name": "Michel Herison",
+    "comment": "I wanted to let you know that I am quite pleased with you fast delivery & your product , which works well. As advertised",
+    "id": 5,
+    "rating": 3
+  },
+  {
+    "name": "Gabriel Ocara",
+    "comment": "Thank you for your prompt reply.  I received the remaining two boxes yesterday.  Things take time to get here but as there was a wide gap in the delivery dates, I was a bit worried.  Thank you for your excellent service.",
+    "id": 6,
+    "rating": 5
+  }
+]
