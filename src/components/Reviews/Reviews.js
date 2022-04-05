@@ -1,9 +1,7 @@
-import React, { createContext, useEffect, useState } from "react";
-import { Card, CardGroup } from "react-bootstrap";
+import React, { useEffect, useState } from "react";
+import { CardGroup } from "react-bootstrap";
 import Cart from "../Cart/Cart";
 import "./Reviews.css";
-
-export const ReviewContext = createContext("review");
 
 const Reviews = () => {
   const [reviewData, setReviewData] = useState([]);
