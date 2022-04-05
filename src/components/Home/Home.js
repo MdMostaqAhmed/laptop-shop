@@ -4,6 +4,7 @@ import laptop from "../../Images/Laptop.png";
 import { Link } from "react-router-dom";
 import { CardGroup } from "react-bootstrap";
 import Cart from "../Cart/Cart";
+import QuestionAndAnswer from "../../QuestionAndAnswer/QuestionAndAnswer";
 
 const Home = () => {
   const [reviewData, setReviewData] = useState([]);
@@ -39,6 +40,11 @@ const Home = () => {
         <Link to="/reviews">
           <button className="btn btn-primary my-5">See All Reviews</button>
         </Link>
+      </div>
+
+      <div>
+        <h3>Question and Answer</h3>
+        <QuestionAndAnswer></QuestionAndAnswer>
       </div>
     </div>
   );
