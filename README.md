@@ -1,6 +1,6 @@
 # LAPTOP HOUSE
 
-### Live Site Link: https://darling-axolotl-19b3e0.netlify.app/
+### Live Site Link: ttps://laptop-shop-bd.netlify.app/
 
 ### Details About the project:
 
